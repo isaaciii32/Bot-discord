@@ -1,0 +1,23 @@
+{
+  "name": "testbot",
+  "version": "1.0.0",
+  "description": "un bot de prueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zeep",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.1.0",
+    "discord.js": "^12.0.2",
+    "enmap": "^4.3.2",
+    "enmap-level": "^2.1.0",
+    "enmap-rethink": "^2.1.2",
+    "ffmpeg-static": "^4.0.1",
+    "giphy-js-sdk-core": "^1.0.5",
+    "opusscript": "0.0.7",
+    "request": "^2.88.0",
+    "ytdl-core": "^2.0.0"
+  }
+}
