@@ -20,7 +20,7 @@ var flgQ = true;
 // LLAMADO AL SDK DE GIPHY
 
 var GphApiClient = require('giphy-js-sdk-core')
-giphy = GphApiClient("cL7VpqZG4BGZKhT0Kqc0c7fG49SK87gE")
+giphy = GphApiClient("key")
 
 // FIN DEL SDK DE GIPHY
 

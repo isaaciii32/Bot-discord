@@ -1,5 +1,0 @@
-google api: AIzaSyDc2MM2Yf8o4Mu1QthW3oZ5CtCOSK2d4lc
-giphy : cL7VpqZG4BGZKhT0Kqc0c7fG49SK87gE
-
-
-https://www.googleapis.com/customsearch/v1?key=AIzaSyDc2MM2Yf8o4Mu1QthW3oZ5CtCOSK2d4lc&cx=001226528808346532614:onj5o8nmrm8&q=gatos&num=50
